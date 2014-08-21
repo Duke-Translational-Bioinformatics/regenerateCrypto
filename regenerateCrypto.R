@@ -8,8 +8,8 @@
 ## erich.huang@duke.edu
 
 ## A demonstration of how we can leverage multiple services
-## to regenerate the figures and underlying data from the 
-## Sage Bionetworks publication on the Breast Cancer Challenge
+## to regenerate an analysis of Cryptococcus image data
+## using spectral clustering
 
 ## REQUIRE
 require(rGithubClient)
